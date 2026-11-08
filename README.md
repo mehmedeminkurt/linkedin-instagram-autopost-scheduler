@@ -1,3 +1,5 @@
+> **Not:** Bu prototip projedeki mimari ve özellikler, çok kiracılı ve kapsamlı [social-media-scheduler](https://github.com/mehmedeminkurt/social-media-scheduler) projesine dönüştürülmüştür.
+
 # Social Media AutoPost Scheduler
 
 A lightweight desktop app for scheduling and publishing social media posts with basic media preparation.
